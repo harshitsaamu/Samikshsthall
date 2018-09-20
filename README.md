@@ -1,4 +1,4 @@
-<h3 align="center">Samikshsthal (समीक्षस्थल): The Ultimate Tourist Assistant</h3>
+<h3 align="center">Samikshsthal (समीक्षस्थल): The Ultimate Tourist Assistant and Wallet</h3>
 
 <b>Abstract:</b><br>
 <ul>
